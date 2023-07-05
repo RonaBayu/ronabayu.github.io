@@ -28,3 +28,7 @@ footer {
 section {
   padding-top: 5rem;
 }
+
+#countdown {
+  font-size: x-large;
+}

@@ -1,0 +1,30 @@
+.jumbotron,
+.photo {
+  padding: 6rem 1rem;
+  background-color: #daf5ff;
+}
+
+.carousel-item img {
+  width: 90%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.carousel-control-next-icon {
+  color: #000;
+}
+
+nav,
+footer {
+  background-color: #b9e9fc;
+}
+
+.footer-credit {
+  margin-bottom: 0px;
+  margin-left: 40px;
+}
+
+section {
+  padding-top: 5rem;
+}

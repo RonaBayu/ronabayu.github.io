@@ -31,4 +31,10 @@ section {
 
 #countdown {
   font-size: x-large;
+  background-color: #b9e9fc;
+  border-radius: 5px;
+}
+
+#output {
+  margin-top: 20px;
 }
